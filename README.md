@@ -1,2 +1,3 @@
 # Optimized-DES
-Optimize DES - Sbox in C
+
+DES의 구조를 분석하여 소프트웨어적으로 조금이나마 빠르도록 최적화를 진행했습니다.
